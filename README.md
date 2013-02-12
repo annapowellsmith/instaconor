@@ -1,8 +1,8 @@
 Instaconor
 ==========
 
-Save the 100 best articles of 2012 to your Instapaper account
--------------------------------------------------------------
+Save the best articles of 2012 to your Instapaper account
+---------------------------------------------------------
 
 This script lets you save more than 100 great long-form articles from 2012 to your [Instapaper](http://instapaper.com/) account, for reading offline. Great if you are going on holiday, or have a long plane ride. 
 
@@ -10,7 +10,7 @@ The full list of articles was curated by Conor Friedersdorf of the Atlantic, and
 
 If you like these articles, you should subscribe to the [Best of Journalism newsletter](http://thebestofjournalism.blogspot.co.uk/) - $1.99/month for a weekly email with links to the best long-form articles around the web. 
 
-Please note: I have no affiliation with Conor Friedersdorf or with Byliner. 
+Please note: I have no affiliation with Conor Friedersdorf, the Best of Journalism, or Byliner. 
 
 ### How to run the script 
 
