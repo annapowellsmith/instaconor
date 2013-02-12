@@ -6,7 +6,7 @@ Save the best articles of 2012 to your Instapaper account
 
 This script lets you save more than 100 great long-form articles from 2012 to your [Instapaper](http://instapaper.com/) account, for reading offline. Great if you are going on holiday, or have a long plane ride. 
 
-The full list of articles was curated by Conor Friedersdorf of the Atlantic, and [can be found on Byliner.com](http://byliner.com/spotlights/102-spectacular-nonfiction-articles-2012). 
+The full list of articles was curated by Conor Friedersdorf of the Atlantic, and [can be found on Byliner.com](http://byliner.com/spotlights/102-spectacular-nonfiction-articles-2012). I [scraped it with ScraperWiki](https://scraperwiki.com/scrapers/conor_friedersdorfs_top_articles_of_2012_byliner/).
 
 If you like these articles, you should subscribe to the [Best of Journalism newsletter](http://thebestofjournalism.blogspot.co.uk/) - $1.99/month for a weekly email with links to the best long-form articles around the web. 
 
