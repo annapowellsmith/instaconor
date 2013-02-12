@@ -14,8 +14,13 @@ Please note: I have no affiliation with Conor Friedersdorf or with Byliner.
 
 ### How to run the script 
 
-Check out or download this repo to a local directory. Then `cd` to that directory and run the script: 
+Check out or download this repo to a local directory.
+ 
+    $ git clone https://github.com/annapowellsmith/instaconor.git
 
+Then `cd` to that directory and run the script: 
+
+    $ cd instaconor
     $ python load2012.py
 
 The script will ask for your Instapaper email or username, and your password if you have one. It will then automatically add all the articles to your account. 
